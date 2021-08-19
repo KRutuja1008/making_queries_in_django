@@ -1,0 +1,1 @@
+# making_queries_in_django
